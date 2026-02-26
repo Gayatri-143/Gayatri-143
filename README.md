@@ -53,11 +53,6 @@ Jupyter Notebook | Git | GitHub | VS Code | MySQL
 ---
 
 
-## 🏆 GitHub Leaderboard
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gayatri-143&theme=flat&no-frame=true&row=1" />
-
----
 
 
 
