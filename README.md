@@ -6,7 +6,7 @@ I am a Computer Science and Engineering student , curious about how AI&ML works 
 
 ## About Me
 
--  Actively preparing for Data Science internships  
+-  Actively preparing for Internships 
 -  Strong foundation in DSA (Python)  
 -  Experienced in EDA & model building  
 -  Built structured OOP systems in Java  
