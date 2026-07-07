@@ -8,7 +8,6 @@ I am a Computer Science and Engineering student , curious about how AI&ML works 
 
 -  Actively preparing for Internships 
 -  Strong foundation in DSA (Python)  
--  Experienced in EDA & model building  
 -  Built structured OOP systems in Java  
 -  Interested in real-world ML applications  
 
