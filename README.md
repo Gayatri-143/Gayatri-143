@@ -82,58 +82,6 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 </p>
 
 <br />
-<<<<<<< HEAD
-
-<h3 align="center">Cloud & DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud & DevOps" />
-</p>
-
-<br />
-
-<h3 align="center">Web & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,flask" alt="Web & Frameworks" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-<br />
-
-<h3 align="center">Data Science & AI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
-</p>
-
-<br />
-
-<h3 align="center">Tools & Environment</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda" alt="Tools" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
----
-
-##  Other Projects
-
-| Project Name | Domain / Focus | Key Technologies | Description |
-| :--- | :--- | :--- | :--- |
-| **ForensIQ** | Cybersecurity & AI | `Python`, `LLMs`, `Knowledge Graphs`, `SOC Workflows` | AI-powered threat intelligence & cybersecurity investigation assistant. |
-| **House Price Prediction** | Machine Learning | `Python`, `Scikit-Learn`, `Pandas`, `ML` | Predictive regression model for real estate pricing estimation. |
-| **Air Quality Monitoring System** | Data & Analytics | `Python`, `Streamlit`, `Pandas` | Interactive dashboard analyzing real-time air quality metrics. |
-| **Electricity Consumption Forecasting** | Time-Series ML | `Python`, `Scikit-Learn`, `Time-Series` | Time-series forecasting for grid energy consumption optimization. |
-| **Weather Application** | Backend Engineering | `Go (Golang)`, `REST API` | High-performance concurrent weather data backend service in Go. |
-| **Athlytics** | Mobile Analytics | `Flutter`, `Dart`, `Firebase` | Sports analytics and performance tracking mobile application. |
-| **RAG System** | Generative AI & Retrieval | `Python`, `RAG`, `LangChain`, `Vector DB`, `LLMs` | Retrieval-Augmented Generation pipeline for semantic search and intelligent document QA. |
-=======
->>>>>>> bd47945c511a8f3e69d1868b2026840369f2dfe7
 
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
