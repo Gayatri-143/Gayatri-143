@@ -33,13 +33,10 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 
 ####  Architecture & Data Flow
 
+
 ```
 ┌─────────────────┐       ┌─────────────────────────────────────────────────────────────┐
-<<<<<<< HEAD
-│  Raw Data Source │ ────► │                     MEDALLION ARCHITECTURE                  │
-=======
 │  Raw DataSource │ ────► │                     MEDALLION ARCHITECTURE                  │
->>>>>>> bd47945c511a8f3e69d1868b2026840369f2dfe7
 │ (CSV / JSON /   │       │                                                             │
 │   Database)     │       │  ┌──────────────┐     ┌──────────────┐     ┌─────────────┐  │
 └─────────────────┘       │  │ Bronze Layer │ ──► │ Silver Layer │ ──► │ Gold Layer  │  │
@@ -120,8 +117,6 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 
 ---
 
-<<<<<<< HEAD
-=======
 ##  Other Projects
 
 | Project Name | Domain / Focus | Key Technologies | Description |
@@ -132,12 +127,10 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 | **Electricity Consumption Forecasting** | Time-Series ML | `Python`, `Scikit-Learn`, `Time-Series` | Time-series forecasting for grid energy consumption optimization. |
 | **Weather Application** | Backend Engineering | `Go (Golang)`, `REST API` | High-performance concurrent weather data backend service in Go. |
 | **Athlytics** | Mobile Analytics | `Flutter`, `Dart`, `Firebase` | Sports analytics and performance tracking mobile application. |
-| **Student Performance Analyzer** | Data Analysis | `Python`, `Pandas`, `Matplotlib` | Exploratory data analysis identifying key academic performance drivers. |
-| **Podcast Listening Time Prediction** | Predictive Analytics | `Python`, `Scikit-Learn`, `ML` | ML model estimating user engagement and podcast drop-off rates. |
+| **RAG Knowledge Assistant** | Generative AI & RAG  | `Python`, `LangChain`, `FAISS`, `OpenAI API` | Semantic search & document Q&A pipeline built with RAG architecture. |
 
 ---
 
->>>>>>> bd47945c511a8f3e69d1868b2026840369f2dfe7
 ##  Currently Learning & Upskilling
 
 - [ ]  **Advanced PySpark:** Spark optimization, AQE, custom partitioning, & memory tuning.
