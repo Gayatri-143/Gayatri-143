@@ -6,7 +6,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;PySpark+%7C+Databricks+%7C+AWS;Building+Scalable+ETL%2FELT+Pipelines;Transforming+Raw+Data+into+Analytics-Ready+Gold)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+Developer;PySpark+%7C+Databricks+%7C+AWS;Building+Scalable+ETL%2FELT+Pipelines;Transforming+Raw+Data+into+Analytics-Ready+Gold)](https://git.io/typing-svg)
 
 </div>
 
