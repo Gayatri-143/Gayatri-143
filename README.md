@@ -35,7 +35,7 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 
 ```
 ┌─────────────────┐       ┌─────────────────────────────────────────────────────────────┐
-│  Raw Data Source │ ────► │                     MEDALLION ARCHITECTURE                  │
+│  Raw DataSource │ ────► │                     MEDALLION ARCHITECTURE                  │
 │ (CSV / JSON /   │       │                                                             │
 │   Database)     │       │  ┌──────────────┐     ┌──────────────┐     ┌─────────────┐  │
 └─────────────────┘       │  │ Bronze Layer │ ──► │ Silver Layer │ ──► │ Gold Layer  │  │
