@@ -20,7 +20,7 @@ Role: Data Engineer Developer (Computer Science Student)
 Focus: Scalable ETL/ELT Pipelines & Distributed Data Processing
 Currently Working On:
   - Retail ETL Pipeline (Databricks & PySpark - Medallion Architecture)
-  - Cloud-Native Data Infrastructure & AWS
+  - Cloud-Native Data Infrastructure & Azure
   - Production Data Engineering Fundamentals & Advanced SQL
 ```
 ---
