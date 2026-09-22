@@ -6,7 +6,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+Developer;PySpark+%7C+Databricks+%7C+AWS;Building+Scalable+ETL%2FELT+Pipelines;Transforming+Raw+Data+into+Analytics-Ready+Gold)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+Developer;PySpark+%7C+Databricks+%7C+Azure;Building+Scalable+ETL%2FELT+Pipelines;Transforming+Raw+Data+into+Analytics-Ready+Gold)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,7 +82,7 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github" alt="Cloud & DevOps" />
 </p>
 
 <br />
@@ -124,7 +124,6 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 | **ForensIQ** | Cybersecurity & AI | `Python`, `LLMs`, `Knowledge Graphs`, `SOC Workflows` | AI-powered threat intelligence & cybersecurity investigation assistant. |
 | **House Price Prediction** | Machine Learning | `Python`, `Scikit-Learn`, `Pandas`, `ML` | Predictive regression model for real estate pricing estimation. |
 | **Air Quality Monitoring System** | Data & Analytics | `Python`, `Streamlit`, `Pandas` | Interactive dashboard analyzing real-time air quality metrics. |
-| **Electricity Consumption Forecasting** | Time-Series ML | `Python`, `Scikit-Learn`, `Time-Series` | Time-series forecasting for grid energy consumption optimization. |
 | **Weather Application** | Backend Engineering | `Go (Golang)`, `REST API` | High-performance concurrent weather data backend service in Go. |
 | **Athlytics** | Mobile Analytics | `Flutter`, `Dart`, `Firebase` | Sports analytics and performance tracking mobile application. |
 | **RAG Knowledge Assistant** | Generative AI & RAG  | `Python`, `LangChain`, `FAISS`, `OpenAI API` | Semantic search & document Q&A pipeline built with RAG architecture. |
@@ -161,6 +160,6 @@ A production-style ETL data pipeline engineered on **Databricks** using **Apache
 
 <div align="center">
 
- *“Data is the raw material of the digital age — engineering makes it useful.”*
+ *“Data is the raw material of the digital age , engineering makes it useful.”*
 
 </div>
